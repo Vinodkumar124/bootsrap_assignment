@@ -1,0 +1,38 @@
+Module (Bootstrap Basic & Advanced)
+question 1: What are the advantages of Bootstrap? 
+
+answer= Open Source — Completely free to download and use.
+Easy to use —with the basic working knowledge of HTML, CSS and JavaScript anybody can start development with Bootstrap.
+Save lots of time — we can save lots of time and effort using the Bootstrap predefined design templates and classes.
+Compatible with browsers — it is compatible with most browsers that are Chrome, Firefox, Internet Explorer, Safari and Opera etc.
+Responsive features — Using Bootstrap we can also easily create responsive websites that appear more appropriately on different devices and screen resolutions.
+Consistent design — all Bootstrap components share the same design templates and styles through a central library, so the design and layout of our web pages will be consistent.
+
+question 2:  What is a Bootstrap Container, and how does it work? 
+answer= Bootstrap Containers are the most basic layout element in Bootstrap. Bootstrap Containers are very essential and basic building blocks of bootstrap that wrap a page’s content. It’s responsible for setting and aligning content within it according to viewport or given device. Containers are defined within the container class (.container). In other words, we can say that containers are established the width for the layout to give the content. Elements and content are added within the container.
+
+question 3: What are the default Bootstrap text settings? 
+answer=Bootstrap's global default font-size is 14px, with a line-height of 1.428. This is applied to the <body> element and all paragraphs (<p>). In addition, all <p> elements have a bottom margin that equals half their computed line-height (10px by default).
+
+question 4:• What do you know about the Bootstrap Grid System? 
+answer=Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.
+
+question 5:What is the difference between Bootstrap 4 and Bootstrap 5?
+answer=It is an open-source framework from late 2011 that is used for designing responsive websites with a mobile-first approach faster and easier. Bootstrap is available for HTML, CSS, and JS. According to server-side languages like PHP, Node, etc. bootstrap helps to design the frontend. Bootstrap has made the work for developers easier by making the templates ready which are basic part of every website. Thus people tend to develop further and don’t waste time on basic templates with beautiful designs along with responsiveness available. 
+
+question 6:What is a Button Group, and what is the class for a basic Button Group? 
+answer=Bootstrap 5 is the latest major release by Bootstrap in which they have revamped the UI and made various changes. Button group is a component provided by Bootstrap 5 which helps to combine the buttons in a series in a single line. All types of buttons are supported by it.
+Syntax:
+<div class="btn-group"> Buttons... <div>s
+
+question 7:• How can you use Bootstrap to make thumbnails?
+answer=A thumbnail is a small image that represents a larger image. Bootstrap has an easy way to do this with thumbnails. Bootstrap’s .thumbnail class is used to show linked images in grids (grid system), a thumbnail is created using class .thumbnail within the element <a>.  The class .col-sm-* and .col-md-* (where * represent number ), it is used to create grids of the images.
+
+question 8:• In Bootstrap 4, what is flexbox? 
+answer=In Bootstrap 4, flex box is used to control the layout and alignment specification of Bootstrap 4 components. This box makes it easier to design flexible responsive layout structures without using float or positioning attributes.
+
+question 9:• How can one create an alert in Bootstrap? 
+answer=Below is the procedure to implement a simple warning alert in Bootstrap. Step 1: Include Bootstrap and jQuery CDN into the <head> tag before all other stylesheets to load our CSS. Step 2: Add the .alert and the warning alert contextual classes (e.g., .alert-warning). Example 1: In this example, we will see types of alerts in bootstrap.
+
+question 10:What is a bootstrap card and how would you create one?
+answer=Bootstrap makes use of its grid and utility classes to create its responsive cards. The Bootstrap card components will represent the blog image, blog details, and blog link as card image, card body, and card link, respectively. To create a Bootstrap card, wrap your single cards with a div element with the card-group class.
